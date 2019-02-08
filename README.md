@@ -8,7 +8,7 @@ This app enables users to share pictures with each other using CloudKit, and it 
 
 ### Picture taking and Sharing
 <img src="/Screenshots/camera_screen.png" width="375"> <img src="/Screenshots/add_note.png" width="375"> 
-<img src="/Screenshots/add_recipient.png" width="375">
+<img src="/Screenshots/add_recipients.png" width="375">
 
 ### Notifications
 <img src="/Screenshots/notification.png" width="375"> <img src="/Screenshots/bounce_back.png" width="375">
